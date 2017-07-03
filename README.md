@@ -1,1 +1,1 @@
-:coffee: #Exercícios demonstrando tratamento de exceções
+# Exercícios demonstrando tratamento de exceções
